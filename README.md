@@ -1,17 +1,7 @@
-# 📊 Data Visualization Portfolio
-Tableau | Power BI | Interactive Analytics
-This repository showcases data visualization projects transforming raw data into actionable insights.
 
-**🛠 Tools & Skills**
-◾ Tableau: Calculated fields, parameters, interactive dashboards
-◾ Chart Types: Butterfly, donut, scatter plots, and more
-◾ Data Storytelling: Descriptive analytics with KPIs and filters
+**Overview - Customer Analysis Dashboard (Tableau)**
 
-**📂 Projects**
-
-**Project 1: Customer Analysis Dashboard (Tableau)**
-
-🔹 Objective: Analyze customer behavior and sales performance using a Kaggle dataset.
+🔹 Objective: Analyze customer behavior and sales performance using a e-commerce store dataset from Kaggle.
 
 📌 Features:
 
@@ -23,4 +13,4 @@ KPIs: Total sales, customer segments, order trends
 
 Dataset: Sales Data from Kaggle
 
-🖥 View Dashboard: Tableau Public Link (https://public.tableau.com/app/profile/soujanya.krishnamurthy/vizzes)
+🖥 View Dashboard: Tableau Public Link (https://public.tableau.com/app/profile/soujanya.krishnamurthy/viz/CustomerAnalysis_Tableau/Dashboard1)
